@@ -1,1 +1,2 @@
 Git é controle de versionamento
+Mas também é gerenciamento de codigo
