@@ -1,4 +1,0 @@
-Git é controle de versionamento
-Mas também é gerenciamento de codigo
-Alocado em nuvem!
-Boraaa!
